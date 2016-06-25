@@ -5,7 +5,7 @@
 SCRIPT=$0
 SCRIPTPATH=$(dirname $SCRIPT)
 SCRIPTNAME=$(basename $SCRIPT)
-Sdebug=1
+Sdebug=0
 SbeROOT=0
 #####################################
 #Script Test if in terminal ( verbose OK )
